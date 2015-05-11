@@ -1,0 +1,76 @@
+{
+	"FR":[
+		{"Navigation":{
+				"gallery":"La Galerie",
+				"event" : "Evénements",
+				"press" : "Press",
+				"contact": "Contact",
+				"lang":{
+                        "lang":"Langues",
+						"fr":"Français",
+						"en":"Anglais",
+						"nl":"Néerlandais"
+				},
+				"search":"Recherchez..."
+        }},
+		{"artist":
+			{
+                                "title": "Galeries des Artistes",
+				"itinerant":"Les Artistes Itinérants",
+				"espoir":"Les Espoirs"
+                        }
+		},
+            {"information":"Informations Pratiques"
+            }
+	],
+	"EN":[
+		{"Navigation":{
+				"gallery":"Gallery",
+				"event" : "Events",
+				"press" : "Press",
+				"contact": "Contact",
+				"lang":{
+					"lang":"Language",
+                                        "fr":"French",
+					"en":"English",
+					"nl":"Dutch"
+				},
+				"search":"Search..."
+                            }
+            },
+            {"artist":
+		{
+                                "title": "Artists Gallery",
+				"itinerant":"The Itinerant Artists",
+				"espoir":"The Hopes"
+                }
+            },
+            {"information":"Usefull Information"
+            }
+	],
+	"NL":[
+		{"Navigation":{
+				"gallery":"Galerij",
+				"event" : "Evenementen",
+				"press" : "Pers",
+				"contact": "Contact",
+				"lang":{
+					"lang":"Talen",
+                                        "fr":"Frans",
+					"en":"Engels",
+					"nl":"Nederlands"
+				},
+				"search":"Zoeken..."
+                            }
+            },
+            {"artist":
+		{
+                                "title": "Galerij van Kunstenaars",
+				"itinerant":"De Itinerante Kunstenaars",
+				"espoir":"The Hopes"
+                }
+            },
+            {"information":"Nuttige Informatie"
+            }
+	]
+}

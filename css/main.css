@@ -1,0 +1,120 @@
+/* 
+    Created on : 2 avr. 2015, 20:25:41
+    Author     : Navi
+*/
+.clear{
+    clear:both;
+}
+#main{
+    background-color: #000;
+}
+#admin_dashboard{
+}
+.gallery-artist,.infos-bloc,footer, footer h3{
+    background-color:#ED1C24;        
+}
+.gallery-artist{
+    width:100%;
+    padding-bottom: 80px;
+}
+.artist-bloc h3{
+    color: white;
+    font-weight: 600;
+}
+.infos-bloc{
+    margin-top:-10px;
+}
+.infos-bloc h2, .infos-bloc p,.gallery-artist h2{
+    padding-top:20px;
+    padding-left: 15px;
+    color: white;
+    font-weight: 600;
+}
+.artist-bloc{
+    float:left;
+    margin: 20px;
+}
+.artist-bloc img{
+   width: 320px;
+   height: 400px;   
+}
+.artist-bloc h3{
+    text-align:center;
+}
+.gallery-artist .title-artist{
+    text-align:center;
+    font-weight:700;
+    font-size: 30px;
+    color:white;
+}
+.infos-bloc .shop{
+    width: 700px;
+    height: 400px;
+}
+.infos-bloc .shop,.artist-bloc img{
+    border-radius: 10px;
+    border: 5px solid white;
+}
+.infos-bloc p{
+    text-align: center;
+    font-size: 22px;
+    padding-bottom: 30px;
+    line-height: 1.5;
+}
+
+footer h3{
+    margin:0 !important;
+    padding: 15px !important;
+    color:white !important;
+    text-align:center;
+}
+footer b{
+    padding-top: 10px !important;
+    padding-bottom: 10px;
+    font-size:15px !important;
+}
+footer a{
+    color: white !important;
+}
+footer a:hover{
+    text-decoration: underline;
+}
+
+.metro .navigation-bar, .metro .navbar{
+	background-color: #ED1C24 !important;
+}
+.metro .navigation-bar .navigation-bar-content .element:hover, .metro .navbar .navigation-bar-content .element:hover, .metro .navigation-bar .navbar-content .element:hover, .metro .navbar .navbar-content .element:hover{
+	background-color: #000 !important;
+}
+.lang img{
+	margin-bottom: 3px;
+	margin-right: 4px;
+}
+.bloc-lang b{
+    margin-right: 8px;
+}
+.list-scrolling {
+    overflow:scroll;
+    height: 700px !important;
+}
+.param_video b{
+    font-size: 15px;
+}
+.param_video video{
+    margin-left: 100px;
+}
+.sizeColumnDesc{
+    width: 650px;
+}
+.form_model label{
+    color: #ED1C24;
+    font-size: 16px;
+    font-weight: bold;
+}
+.textarea a{
+    color:white;
+}
+#modify_artist{
+    width:800px !important;
+    margin-left: 30%;
+}
